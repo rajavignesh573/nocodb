@@ -1,3 +1,0 @@
-<template>
-  <WorkspaceChatView />
-</template>
